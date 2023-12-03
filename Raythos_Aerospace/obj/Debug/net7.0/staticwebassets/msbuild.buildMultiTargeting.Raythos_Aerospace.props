@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Raythos_Aerospace.props" />
+</Project>
